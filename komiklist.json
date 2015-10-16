@@ -1,0 +1,19 @@
+{
+    "aaData": [
+        {
+			"id": "1",
+            "imagekomik": "resources/images/main1/RajaBola1.jpg",
+            "namakomik": "Raja Bola"
+        },
+        {
+			"id": "2",
+            "imagekomik": "resources/images/main2/jm01.jpg",
+            "namakomik": "Jengking Merah"
+        },
+        {
+			"id": "3",
+            "imagekomik": "resources/images/main3/jw001.jpg",
+            "namakomik": "Juara Wira"
+        }
+    ]
+}

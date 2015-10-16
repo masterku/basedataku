@@ -1,0 +1,28 @@
+{
+    "aaData": [
+        {
+			"sub": "1",
+            "id": "1",
+            "image": "resources/images/main1/RajaBola1.jpg",
+            "nama": "Episod 1"
+        },
+        {
+			"sub": "1",
+            "id": "2",
+            "image": "resources/images/main1/RajaBola2.jpg",
+            "nama": "Episod 2"
+        },
+        {
+			"sub": "1",
+            "id": "3",
+            "image": "resources/images/main1/RajaBola3.jpg",
+            "nama": "Episod 3"
+        },
+        {
+			"sub": "1",
+            "id": "4",
+            "image": "resources/images/main1/RajaBola4.jpg",
+            "nama": "Episod 4"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "aaData": [
+        { "sub": "3", "id": "1", "image": "resources/images/main3/jw001.jpg", "nama": "Episod 1" },
+        { "sub": "3", "id": "2", "image": "resources/images/main3/jw002.jpg", "nama": "Episod 2" },
+        { "sub": "3", "id": "3", "image": "resources/images/main3/jw003.jpg", "nama": "Episod 3" },
+        { "sub": "3", "id": "4", "image": "resources/images/main3/jw004.jpg", "nama": "Episod 4" },
+        { "sub": "3", "id": "5", "image": "resources/images/main3/jw005.jpg", "nama": "Episod 5" },
+        { "sub": "3", "id": "6", "image": "resources/images/main3/jw006.jpg", "nama": "Episod 6" }
+    ]
+}

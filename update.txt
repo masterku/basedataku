@@ -1,0 +1,52 @@
+{
+    "aaData": [
+		{
+			"id": 12,
+			"update": "Ikuti fanpage G+ NangAntap https://plus.google.com/u/0/communities/111484562601923732324"
+        },
+		{
+			"id": 11,
+			"update": "Lengkap Jengking Merah, kemaskini sekarang di amazon app store"
+        },
+		{
+			"id": 10,
+			"update": "Ver 1.7.0 released.Remove EULA.Update now: http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap"
+        },
+		{
+			"id": 9,
+			"update": "version 1.6.0 released. New app policy, just click OK. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap"
+        },
+		{
+			"id": 8,
+			"update": "In the process updating everything and remove all experiment junks. Stay tuned."
+        },
+		{
+			"id": 7,
+			"update": "update jengking merah up to 11."
+        },
+		{
+			"id": 6,
+			"update": "update juara jalanan 1-10."
+        },
+		{
+			"id": 5,
+			"update": "version 1.5.0 released. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap . Library expand, update sekarang."
+        },
+		{
+			"id": 4,
+			"update": "version 1.4.0 released. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap"
+        },
+		{
+			"id": 3,
+			"update": "Mac 2015 - New version coming by end of this week."
+        },
+		{
+			"id": 2,
+			"update": "Feb 2015 - Refresh id clean up."
+        },
+		{
+			"id": 1,
+			"update": "Feb 2015 - Release pertama daripada cygnosis."
+        }
+    ]
+}
